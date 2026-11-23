@@ -1,0 +1,8 @@
+selenium>=4.20
+requests
+pyyaml
+reportlab
+beautifulsoup4
+lxml
+python-dotenv
+j

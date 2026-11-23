@@ -1,0 +1,9 @@
+Dear Volga Partners Team,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions, including Kotak Mahindra Bank and Tata Capital. I specialize in deploying scalable AI solutions that solve complex operational challenges.
+
+In my recent work, I led the AI architecture for an identity verification platform, scaling it to handle 9 lakh requests monthly with over 95% efficacy. Additionally, I developed a multi-agent system using LangGraph for KYC/KYB workflows, implementing conditional routing and scoped tool calling that significantly optimized reliability. My technical stack includes Python, FastAPI, Docker, and AWS, with a strong focus on MLOps and LLM fine-tuning.
+
+I am eager to bring this experience in building efficient, production-ready AI systems to Volga Partners. I am based in Gurugram and have a 30-day notice period.
+
+Dhruv Singh

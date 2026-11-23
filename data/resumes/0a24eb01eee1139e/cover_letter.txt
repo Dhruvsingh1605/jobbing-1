@@ -1,0 +1,9 @@
+Hello Twilio Team,
+
+I am an AI Engineer with 1.5+ years of experience building production LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Aditya Birla Capital. My expertise lies in Python, FastAPI, and orchestrating complex workflows using LangGraph and MLOps on AWS.
+
+I am particularly interested in the Applications Engineer role, where I can apply my experience in scaling reliable AI infrastructure. For instance, I led the core AI for an identity verification platform that now handles 9 lakh requests monthly at over 95% efficacy. Additionally, I built a multi-agent system for KYC/KYB checks using LangChain and LangGraph, implementing conditional routing and scoped tool calling to handle dynamic workflows. I am confident my background in deploying high-throughput, cost-optimized AI systems aligns well with Twilio’s engineering standards. 
+
+I am based in Gurugram and available with a 30-day notice period.
+
+Dhruv Singh

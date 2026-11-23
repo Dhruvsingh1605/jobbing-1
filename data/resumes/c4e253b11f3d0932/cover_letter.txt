@@ -1,0 +1,7 @@
+Hello,
+
+I am writing to express my interest in the Databricks Genie AI Engineer position. With over 1.5 years of experience building production-grade LLM and RAG systems for institutions like Kotak Mahindra Bank and Tata Capital, I have developed the technical depth required to optimize complex semantic layers and natural language query systems.
+
+My background aligns closely with your need for robust data-driven AI. For instance, I built a RAG pipeline utilizing fine-tuned YOLOv8 and TATR for table extraction on 500-page banking reports, achieving 81% accuracy while reducing costs by 2.5x. Additionally, I led the development of an identity verification platform that scaled to 9 lakh requests monthly with over 95% efficacy, demonstrating my ability to maintain reliability at scale. I am proficient in Python, MLOps, and complex data orchestration, and I am available to join within 30 days.
+
+Dhruv Singh

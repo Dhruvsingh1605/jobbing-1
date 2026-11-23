@@ -1,0 +1,9 @@
+Hello,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM and agentic systems for banking clients like Kotak Mahindra Bank and Tata Capital. My expertise aligns closely with your need for scalable, production-ready NLP solutions.
+
+I have extensive experience in the full ML lifecycle, from fine-tuning models to deploying optimized inference pipelines. For instance, I built a RAG pipeline using fine-tuned YOLOv8 and TATR for table extraction on complex banking reports, achieving 81% accuracy at 2.5x lower cost. Additionally, I developed a multi-agent system in LangGraph for KYC/KYB checks, where I optimized token usage by switching from JSON to TOON formats, significantly reducing operational costs while maintaining reliability.
+
+I am proficient in Python, FastAPI, Docker, and AWS, and I am ready to contribute to your team. I am based in Gurugram and have a 30-day notice period.
+
+Dhruv Singh

@@ -1,0 +1,9 @@
+Hello Coinbase Team,
+
+I am an AI Engineer with over 1.5 years of experience building production LLM, RAG, and multi-agent systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. I am eager to bring my expertise in orchestrating complex conversational workflows to the CX Intelligence team.
+
+At Aditya Birla Capital, I built a multi-agent system using LangChain and LangGraph for KYC/KYB workflows, where a main agent routes tasks to sub-agents with shared state and conditional tool calling. This architecture ensures reliable, scoped tool access across organizational boundaries. Additionally, I developed a real-time speech-to-speech system using Llama-3 and async pipelines, optimizing inference costs by 40% through quantization and audio chunking. My background in MLOps, Python, and AWS aligns with your need for scalable, production-grade AI services.
+
+I am available to join within 30 days and look forward to contributing to your conversational ecosystem.
+
+Dhruv Singh

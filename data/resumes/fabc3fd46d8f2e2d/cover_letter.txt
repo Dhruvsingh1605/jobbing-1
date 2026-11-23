@@ -1,0 +1,9 @@
+Hello Hevo Data Team,
+
+I am an AI Engineer with 1.5+ years of experience building production-grade LLM and agentic systems for banks like Kotak Mahindra and Tata Capital. I am excited about Hevo’s mission to build autonomous data infrastructure, as I understand the rigor required to make AI systems reliable enough to run unsupervised in production.
+
+My background involves building resilient, scalable pipelines. For instance, I developed an agent that autonomously onboards 50+ document types using multi-hop tool calling and self-refreshing RAG memory, reducing LLM costs by 80%. Additionally, I led the core AI for an identity verification platform, scaling it to handle 9 lakh requests monthly with over 95% efficacy. I am proficient in Python, FastAPI, and MLOps, and I am eager to apply this experience to build self-healing data connectors.
+
+I am based in Gurugram and have a 30-day notice period.
+
+Dhruv Singh

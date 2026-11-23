@@ -1,0 +1,9 @@
+Dear Clera Team,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM, RAG, and agentic systems for banking clients like Kotak Mahindra Bank and Tata Capital. I am excited about the opportunity to join Clera and build high-reliability voice AI agents.
+
+My background aligns closely with your needs for distributed, real-time systems. I recently developed a real-time speech-to-speech pipeline using Llama-3, STT, and TTS services over WebRTC, where I optimized async pipelines and model quantization to cut inference costs by 40%. Additionally, I built a multi-agent system in LangGraph for complex KYC workflows, implementing conditional routing and scoped tool calling to ensure reliability at scale.
+
+I am comfortable owning projects end-to-end, from architecture to MLOps, using Python, FastAPI, and AWS. I am based in Gurugram and can join with a 30-day notice period. I look forward to contributing to your engineering team.
+
+Dhruv Singh

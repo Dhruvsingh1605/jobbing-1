@@ -1,0 +1,9 @@
+Hello Snowflake Team,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Aditya Birla Capital. I specialize in deploying scalable AI solutions using Python, FastAPI, Docker, and AWS.
+
+In my recent work, I built a multi-agent system using LangGraph for KYC/KYB checks, implementing conditional routing and scoped tool calling that optimized token usage. Additionally, I led the core AI for an identity verification platform, scaling it to handle 9 lakh requests monthly with over 95% efficacy. My experience in MLOps, including CI/CD, Langfuse tracing, and optimizing inference costs for complex pipelines, aligns directly with the requirements for a Forward Deployed Engineer.
+
+I am based in Gurugram and can join with a 30-day notice period. I look forward to discussing how my experience building reliable, high-scale AI systems can contribute to Frontier Engineering.
+
+Dhruv Singh

@@ -1,0 +1,7 @@
+Hello HackerRank Team,
+
+As an AI Engineer with 1.5+ years of experience building production-grade agentic systems for major financial institutions, I am eager to apply my expertise in deep learning and LLM orchestration to HackerRank’s mission. My work at firms like Kotak Mahindra Bank and Tata Capital centers on deploying scalable, reliable AI, which aligns directly with the challenges of building autonomous interviewers and robust integrity systems.
+
+I have led the development of complex multi-agent architectures, including a system that onboarded 50+ document types with 80% lower LLM costs through self-refreshing RAG memory. Additionally, I built an identity verification platform that scaled to 9 lakh requests monthly with over 95% efficacy, demonstrating my ability to translate research into high-impact, production-grade solutions. I am proficient in Python, MLOps, and fine-tuning architectures via LoRA. With a 30-day notice period, I am ready to contribute to your engineering team in Bangalore.
+
+Dhruv Singh

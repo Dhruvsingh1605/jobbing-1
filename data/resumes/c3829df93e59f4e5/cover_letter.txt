@@ -1,0 +1,9 @@
+Dear Hiring Team at Cognizant,
+
+I am writing to express my interest in the AI Engineer position. With over 1.5 years of experience building production-grade LLM, RAG, and agentic AI systems for major financial institutions like Kotak Mahindra Bank and Tata Capital, I am well-prepared to contribute to your autonomous agent initiatives.
+
+My expertise lies in multi-agent orchestration and scalable deployment. For instance, I recently built a multi-agent system using LangGraph for complex KYC/KYB workflows, where a main agent routes tasks to sub-agents with conditional logic and shared state. Additionally, I led the core AI for an identity verification platform that scaled to 9 lakh requests monthly with over 95% efficacy. I am highly proficient in Python, FastAPI, Docker, and AWS, and I am comfortable adapting my MLOps experience to the Azure AI ecosystem.
+
+I am based in Gurugram and can join with a 30-day notice period.
+
+Dhruv Singh

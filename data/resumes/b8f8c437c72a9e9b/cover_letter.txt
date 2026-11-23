@@ -1,0 +1,9 @@
+Dear Clera Team,
+
+I am an AI Engineer with 1.5+ years of experience building production-grade LLM, RAG, and agentic systems for banking institutions. I am eager to apply for the Research Engineer position to build robust quality control and evaluation infrastructure for your training data.
+
+My background includes leading the core AI for an identity verification platform, where I scaled systems to handle 9 lakh requests monthly at over 95% efficacy, ensuring reliability without manual review. Additionally, I developed a RAG pipeline for complex banking reports using fine-tuned YOLOv8 and TATR for table extraction, achieving 81% accuracy at 2.5x lower cost. These projects required designing rigorous validation pipelines, metrics, and automated QA processes to maintain high standards in data-heavy environments.
+
+I am confident my experience building scalable data-validation pipelines aligns with your needs. I am based in Gurugram and have a 30-day notice period.
+
+Dhruv Singh

@@ -1,0 +1,9 @@
+Hello Sarvam Team,
+
+I am an AI Engineer with 1.5+ years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Aditya Birla Capital. My work focuses on deploying scalable AI that solves complex, real-world problems.
+
+I am particularly drawn to the Strategic Deployment Engineer role at Sarvam because of your focus on building robust, scalable AI infrastructure. In my previous roles, I led the AI architecture for an identity verification platform, scaling it to handle 9 lakh requests monthly at 95% efficacy. Additionally, I developed a multi-agent system using LangGraph for KYC/KYB workflows, where I optimized token costs by transitioning data formats and implementing strict tool access controls.
+
+My technical stack includes Python, FastAPI, Docker, and AWS, and I am comfortable navigating the complexities of MLOps. I am based in Gurugram and can join with a 30-day notice period.
+
+Dhruv Singh

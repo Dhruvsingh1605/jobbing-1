@@ -1,0 +1,9 @@
+Hello Meesho Team,
+
+I am writing to express my strong interest in the AM/M - Risk Analytics role. With over 1.5 years of experience building production-grade AI systems for major financial institutions like Kotak Mahindra Bank and Tata Capital, I specialize in scaling risk and fraud detection through advanced LLM and MLOps pipelines.
+
+My background directly aligns with Meesho’s lending needs. I previously led the core AI for an identity verification platform that now handles 9 lakh requests monthly at over 95% efficacy. Furthermore, I built an automated forgery detection system—combining CNNs, clustering, and LLM adjudication—that successfully flagged Rs 78 lakh of fraud in a single day. My expertise in Python, FastAPI, and agentic workflows ensures I can deploy robust, cost-effective solutions for your lending analytics.
+
+I am based in Gurugram and can join with a 30-day notice period. I look forward to discussing how my technical experience can support Meesho’s risk initiatives.
+
+Dhruv Singh

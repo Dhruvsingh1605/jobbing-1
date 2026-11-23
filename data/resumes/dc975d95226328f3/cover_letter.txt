@@ -1,0 +1,9 @@
+Hello Mindtickle Team,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM, RAG, and agentic AI systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. My work focuses on scaling complex AI workflows while optimizing for cost and reliability.
+
+At my previous roles, I led the development of an identity verification platform handling 9 lakh requests monthly with over 95% efficacy. Additionally, I engineered a multi-agent system using LangGraph for KYC/KYB checks, which utilizes conditional routing and shared state to automate complex document processing. My expertise spans LangChain, fine-tuning (LoRA), MLOps, and deploying robust pipelines on AWS.
+
+I am eager to bring this experience in building high-scale, agentic AI products to the team at Mindtickle. I am based in Gurugram and have a 30-day notice period. I look forward to discussing how my technical background aligns with your engineering goals.
+
+Dhruv Singh

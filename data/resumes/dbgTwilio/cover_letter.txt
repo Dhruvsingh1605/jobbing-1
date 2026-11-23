@@ -1,0 +1,9 @@
+Hello Twilio Team,
+
+I am an AI Engineer with 1.5+ years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. I am eager to apply my expertise in scalable ML systems to the Data Scientist role at Twilio.
+
+My background centers on deploying high-impact AI solutions. I led the core AI for an identity verification platform, scaling it to handle 9 lakh requests monthly with over 95% efficacy. Additionally, I developed a multi-agent system using LangGraph for complex KYC workflows, where I optimized token costs by shifting data formats and implementing robust tracing with Langfuse. My technical stack includes Python, FastAPI, Docker, and AWS, alongside deep experience in LLM fine-tuning and MLOps.
+
+I am based in Gurugram and have a 30-day notice period. I look forward to discussing how my experience can contribute to Twilio’s data-driven initiatives.
+
+Dhruv Singh

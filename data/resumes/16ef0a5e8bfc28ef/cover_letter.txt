@@ -1,0 +1,7 @@
+Hello,
+
+I am an AI Engineer with 1.5+ years of experience building production LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. My work focuses on transforming complex, heterogeneous data into structures that AI can reliably reason over, which aligns directly with the Embedded Data Scientist role at Sarvam.
+
+I have extensive experience designing semantic structures for sensitive datasets. For instance, I built a RAG pipeline using fine-tuned YOLOv8 and TATR for table extraction on 500-page banking reports, achieving 81% accuracy. Additionally, I mapped complex relationships in a Neo4j knowledge graph using Cypher to flag financial fraud across multi-entity statements. I am skilled in LangGraph, Python, and MLOps, and I am adept at defining the ontologies and ingestion pipelines necessary for large-scale AI deployment. I am based in Gurugram and have a 30-day notice period.
+
+Dhruv Singh

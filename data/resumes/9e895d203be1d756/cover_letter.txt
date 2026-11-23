@@ -1,0 +1,9 @@
+Hello Team at Jobgether,
+
+I am an AI Engineer with 1.5+ years of experience building production LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. My work focuses on scalable inference and MLOps using Python, FastAPI, and Docker.
+
+I am confident in my ability to contribute to your engineering tasks immediately. For instance, I built a multi-agent system in LangGraph for KYC/KYB checks that utilizes conditional routing and scoped tool calling, significantly optimizing workflow reliability. Additionally, I developed a RAG pipeline with fine-tuned YOLOv8 and TATR for complex banking report extraction, achieving 81% accuracy while reducing costs by 2.5x. My background in orchestrating multi-agent workflows and optimizing retrieval pipelines aligns directly with your requirements for robust, efficient ML systems.
+
+I am based in Gurugram and can accommodate a 30-day notice period. I look forward to discussing how my experience can support your team.
+
+Dhruv Singh

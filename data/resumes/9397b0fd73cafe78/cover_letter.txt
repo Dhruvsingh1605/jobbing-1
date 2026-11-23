@@ -1,0 +1,9 @@
+Hi Team,
+
+I am writing to express my interest in the Founding Engineer, Agents role at clera. With over 1.5 years of experience building production LLM and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital, I specialize in the reliability and architecture required for autonomous work.
+
+I have direct experience building complex, multi-agent systems using LangGraph where agents route tasks with shared state and conditional logic, ensuring goal coherence. Notably, I developed an agent that autonomously onboards unseen document types using multi-hop tool calling and self-refreshing RAG memory, reducing LLM costs by 80%. Additionally, I led the AI for an identity verification platform that scaled to 9 lakh requests monthly with over 95% efficacy, proving my ability to build systems that operate reliably without manual intervention.
+
+I am eager to bring this expertise to clera. I am based in Gurugram and available within 30 days.
+
+Dhruv Singh

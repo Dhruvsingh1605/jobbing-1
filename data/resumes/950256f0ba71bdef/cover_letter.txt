@@ -1,0 +1,9 @@
+Hello Cognition team,
+
+I am an AI Engineer with 1.5+ years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Aditya Birla Capital. My work focuses on deploying scalable, reliable AI solutions using Python, FastAPI, and LangGraph.
+
+I am particularly excited about the Partner Deployed Engineer role because I thrive on building complex, client-facing AI systems. For instance, I developed a multi-agent system using LangGraph for automated KYC/KYB checks, where I implemented conditional routing and scoped tool calling to handle dynamic workflows. Additionally, I built an identity verification platform that scaled to 9 lakh requests monthly with over 95% efficacy, significantly reducing the need for manual review.
+
+I am adept at MLOps, including Langfuse tracing, Docker, and AWS, and I am available to join within 30 days from Gurugram.
+
+Dhruv Singh

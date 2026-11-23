@@ -1,0 +1,9 @@
+Hi Glance Team,
+
+I am writing to express my interest in the Applied Scientist II role. With 1.5+ years of experience building production-grade LLM, RAG, and agentic AI systems for major financial institutions like Kotak Mahindra Bank and Tata Capital, I am eager to apply my expertise in multi-agent orchestration and recommendation-adjacent AI to Glance’s personalized commerce ecosystem.
+
+My technical background aligns directly with your need for scalable, intelligent systems. For example, I built a multi-agent system using LangGraph for complex KYC/KYB workflows, optimizing token costs and tool access control while ensuring reliability. Additionally, I developed a real-time speech-to-speech pipeline using Llama-3 and asynchronous processing that reduced inference costs by 40%. My experience with Python, FastAPI, Docker, and MLOps ensures I can move models from research to production efficiently.
+
+I am based in Gurugram and am available to join within 30 days. I look forward to discussing how my experience can contribute to Glance.
+
+Dhruv Singh

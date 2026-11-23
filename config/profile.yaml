@@ -1,0 +1,157 @@
+# Verified facts about the candidate. Source of truth = CV (Dhruv_Singh_Resume.pdf);
+# LinkedIn used only for extra facts. The agent must NEVER state anything not found here.
+identity:
+  full_name: Dhruv Singh
+  first_name: Dhruv
+  last_name: Singh
+  email: dhruvsingh1605@gmail.com
+  phone: "+91 7217861673"
+  phone_local: "7217861673"
+  phone_country_code: "+91"
+  linkedin: https://www.linkedin.com/in/dhruv-singh-78a503203
+  github: https://github.com/Dhruvsingh1605
+  portfolio: https://github.com/Dhruvsingh1605
+  location_city: Gurugram
+  location_state: Haryana
+  location_country: India
+  location_full: "Gurugram, Haryana, India"
+  nationality: Indian
+  has_passport: true
+
+headline: AI Engineer - LLM, RAG and agentic AI systems for banks and NBFCs
+current:
+  title: AI Engineer
+  company: Timble Technologies Pvt. Ltd
+  since: "Sep 2025"
+total_experience_years: 1.5
+total_experience_text: "1.5+ years in AI/ML engineering (plus internships)"
+
+summary: >
+  AI Engineer with 1.5+ years of experience building production LLM, RAG and agentic AI systems for
+  banks and NBFCs, deployed at Kotak Mahindra Bank, Aditya Birla Capital and Tata Capital. Skilled in
+  multi-agent orchestration (LangGraph), document AI, fraud detection, LLM fine-tuning (LoRA) and
+  MLOps on Python, FastAPI, Docker and AWS.
+
+skills:
+  Programming: [Python, SQL]
+  "LLM & Agentic AI": [LangChain, LangGraph, RAG, GraphRAG, Multi-Agent Systems, Tool Calling, Prompt Engineering, Guardrails, Hybrid Retrieval, "LLM Evaluation (RAGAS)"]
+  "ML & Computer Vision": [PyTorch, Hugging Face Transformers, LoRA/QLoRA, Quantization, FlashAttention, YOLOv8, TATR, OCR, NLP, XGBoost, Scikit-learn]
+  "Backend & Databases": [FastAPI, Django, REST APIs, Celery, WebRTC, PostgreSQL, Neo4j, Redis, FAISS, BM25]
+  "Cloud & DevOps": [AWS (S3, EC2), Docker, GitHub Actions (CI/CD)]
+  "MLOps & Observability": [MLflow, DVC, Langfuse, OpenTelemetry, SigNoz, LaunchDarkly]
+
+# Each bullet has an id so the tailoring step can SELECT and REORDER them but never rewrite the numbers.
+experience:
+  - id: timble
+    title: AI Engineer
+    company: Timble Technologies Pvt. Ltd
+    location: Gurgaon
+    dates: "Sep 2025 - Present"
+    projects:
+      - name: Enrich
+        subtitle: KYC/KYB verification agents
+        bullets:
+          - id: enrich1
+            text: "Built a multi-agent system in LangChain and LangGraph for KYC/KYB checks that change per workflow: a main agent routes work to sub-agents with shared state, conditional routing and scoped tool calling."
+          - id: enrich2
+            text: "Agents write each client's report schema and branded PDF at runtime; moving tool data from JSON to TOON format cut token cost. Tool access is controlled per organisation across API keys, workflows and webhooks, and agents are traced with Langfuse and guarded for reliability."
+      - name: ADP
+        subtitle: Autonomous document processing agent
+        bullets:
+          - id: adp1
+            text: "Built an agent that onboards unseen document types by itself using multi-hop tool calling and a self-refreshing RAG memory. It covers 50+ document types at 80% lower LLM cost."
+      - name: SafeLens
+        subtitle: Agentic identity verification
+        bullets:
+          - id: safelens1
+            text: "Led the core AI for an identity verification platform that needed to scale without manual review. It now handles 9 lakh requests a month at over 95% efficacy."
+      - name: FPS
+        subtitle: Fraud detection engine
+        bullets:
+          - id: fps1
+            text: "Combined CNN forgery detection, HDBSCAN clustering and LLM adjudication to catch forged documents at scale. It caught Rs 78 lakh of fraud in a single day."
+      - name: BSA
+        subtitle: Bank Statement Analyzer
+        bullets:
+          - id: bsa1
+            text: "Built the analyzer on OCR and NLP pipelines that process 10,000+ transactions a day, cutting manual review by 60% and credit turnaround by 35%."
+          - id: bsa2
+            text: "Built a RAG pipeline with fine-tuned YOLOv8 and TATR for table extraction on 500-page banking reports, reaching 81% accuracy at about 2.5x lower cost."
+      - name: EWS
+        subtitle: Early warning and AML detection
+        bullets:
+          - id: ews1
+            text: "Mapped relationships in a Neo4j knowledge graph (Cypher) and used XGBoost and LSTM ensembles to flag round-tripping and fund trailing across multi-entity statements."
+  - id: dataviv
+    title: MLOps Engineer Intern
+    company: Dataviv Technologies Pvt. Ltd
+    location: Gurgaon
+    dates: "Jun 2025 - Sep 2025"
+    bullets:
+      - id: dv1
+        text: "Built a real-time speech-to-speech system (STT, Llama-3 8B, TTS, Wav2Lip) as separate services over REST and WebRTC. Async pipelines, audio chunking and quantized models cut inference cost by 40% versus a proprietary alternative."
+      - id: dv2
+        text: "Set up MLflow, DVC, Docker and CI/CD for one-click deployments, and used Redis Pub/Sub and FAISS for context-aware replies."
+
+# Only on LinkedIn, not on CV. Used ONLY if a form explicitly asks for full employment history.
+extra_history_linkedin_only:
+  - "Machine Learning Intern, GFuture Tech Pvt. Ltd., Ahmedabad, Jan 2025 - Apr 2025 (AI medical assistant with Gemini 1.5 Flash; fine-tuned Qwen 2.5-Math with PEFT; MLflow + Docker)"
+  - "Technical Advisor, BKS & DKS Trips Pvt. Ltd., Gurugram, Jan 2025 - Present"
+
+projects:
+  - id: lawyer
+    name: "LawYer: AI Legal Assistant"
+    tech: FAISS, LangChain, MLflow
+    bullets:
+      - id: law1
+        text: "Built a RAG and GraphRAG assistant over 50,000+ legal documents. Hybrid retrieval (BM25 + vector search) reached 87% Precision@5, grounding answers cut hallucinations by 30%, and RAGAS tracked response quality."
+
+education:
+  - degree: "B.Tech, Computer Science and Engineering"
+    school: "Parul Institute of Engineering and Technology"
+    years: "2021 - 2025"
+    cgpa: "7.68"
+    cgpa_scale: "10"
+
+certifications:
+  - Supervised Machine Learning - Coursera (Andrew Ng)
+  - Data Analysis with Python - FreeCodeCamp
+  - Python (Basic & Intermediate) - HackerRank
+  - Problem Solving - HackerRank
+  - British Airways Data Science (virtual experience program, LinkedIn)
+
+# ---- Answers bank (given by the candidate) ----
+answers:
+  notice_period: "30 days"
+  notice_period_days: 30
+  current_ctc: "8 LPA (INR 8,00,000 per annum)"
+  current_ctc_number_inr: 800000
+  expected_ctc: "12 LPA or above (INR 12,00,000+ per annum)"
+  expected_ctc_number_inr: 1200000
+  salary_negotiable: true
+  willing_to_relocate: true
+  open_to_remote: true
+  open_to_hybrid: true
+  open_to_onsite: true
+  preferred_locations: [Gurugram, Delhi NCR, Bangalore, Hyderabad, Pune, Remote, International]
+  work_authorization:
+    india: "Legally authorised to work in India. No sponsorship required for India."
+    other_countries: "Not authorised to work outside India yet. Requires visa sponsorship for any other country. Holds a valid passport."
+  requires_visa_sponsorship_outside_india: true
+  requires_sponsorship_for_india: false
+  has_passport: true
+  veteran_status: "Not a protected veteran / never served in the military"
+  # Not provided by candidate -> default is to decline to self-identify where an option exists.
+  gender: "Decline to self-identify"
+  race_ethnicity: "Decline to self-identify"
+  disability: "I do not wish to answer"
+  how_did_you_hear: "Company careers page / job board"
+  employment_type_preference: "Full-time"
+  earliest_start: "30 days from offer (notice period)"
+  currently_employed: true
+  worked_here_before: false
+  conflict_of_interest: false
+  background_check_ok: true
+  over_18: true
+  # Facts the agent does NOT know -> it must not guess. Application is skipped and logged as needs_info.
+  unknown_facts: [date_of_birth, home_street_address, pincode, pan, aadhaar, passport_number, references, current_employer_manager_contact, 10th_12th_percentages]

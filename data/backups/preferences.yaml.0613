@@ -1,0 +1,95 @@
+# ---------------- Run mode ----------------
+# dry_run = discover, score, tailor, fill forms, screenshot - but NEVER submit.
+# auto    = submit applications on its own.
+mode: auto
+# Runs before this date are forced to dry_run (first-day safety check). Remove the line to go live immediately.
+live_from: "2026-11-23"
+timezone: Asia/Kolkata
+
+# ---------------- What to look for ----------------
+target_titles:
+  - ai engineer
+  - llm engineer
+  - ai agent engineer
+  - agentic ai
+  - genai engineer
+  - generative ai
+  - gen ai
+  - ml engineer
+  - machine learning engineer
+  - mlops
+  - ml ops
+  - data scientist
+  - ai consultant
+  - python developer
+  - nlp engineer
+  - applied scientist
+  - ai/ml
+  - ai developer
+  - ai software engineer
+  - research engineer
+  - software engineer
+  - software development engineer
+  - sde
+  - backend engineer
+  - forward deployed engineer
+  - ai product engineer
+  - nlp
+  - computer vision
+  - data engineer
+  - analytics engineer
+  - ai solutions engineer
+exclude_title_words:
+  - senior
+  - sr.
+  - sr
+  - lead
+  - principal
+  - staff
+  - head
+  - director
+  - manager
+  - vp
+  - architect
+  - intern
+  - internship
+  - trainee
+  - professor
+  - sales
+  - marketing
+  - recruiter
+  - "iii"
+  - "iv"
+max_required_years: 4        # skip jobs that require more than this
+min_required_years_ok: 0
+experience_years: 1.5
+locations_allowed: [gurgaon, gurugram, delhi, noida, ncr, bangalore, bengaluru, hyderabad, pune, remote, india, anywhere, hybrid]
+allow_international: true      # international roles are OK only when they sponsor visas / are remote-friendly
+min_salary_lpa: 12             # skip only when the posting clearly shows a ceiling below this
+max_job_age_days: 14          # "freshly added" only; newest postings are scored and applied to first
+min_score: 68                  # LLM fit score 0-100 needed to apply
+
+blocklist_companies:           # current and past employers only
+  - timble
+  - dataviv
+  - gfuture
+  - g future
+  - bks & dks
+  - bks and dks
+
+# ---------------- Limits ----------------
+max_applications_per_run: 25
+max_applications_per_day: 80
+max_llm_scored_per_run: 120
+run_time_budget_minutes: 50
+pause_between_applications_sec: [20, 45]
+log_retention: delete_daily    # logs wiped at 00:30 IST; the dedupe DB is kept
+
+# ---------------- Sources (login-free only; LinkedIn/Naukri deliberately excluded) ----------------
+sources:
+  ats_boards: true        # Greenhouse / Lever / Ashby / SmartRecruiters / Workable public job APIs
+  aggregators: true       # Remotive, Arbeitnow, RemoteOK, Himalayas, Jobicy, HN "Who is hiring"
+  google_cse: true        # official Google Programmable Search API, past-2-days results (needs GOOGLE_CSE_KEY + GOOGLE_CSE_CX in .env; silently off otherwise)
+  serper: true            # Serper.dev (Google results API, needs SERPER_KEY in .env) - replaces the closed Google CSE route
+  google_search: false    # raw Selenium Google scraping: Google CAPTCHA-blocks this VPS immediately, so it is off
+  recruiter_email: true   # postings that publish an application email address

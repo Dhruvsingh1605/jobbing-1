@@ -1,0 +1,9 @@
+Dear Hiring Team at Sigmoid,
+
+I am an AI Engineer with 1.5+ years of experience building production LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. My background aligns well with Sigmoid’s focus on solving complex, unstructured business problems through scalable data science.
+
+I specialize in deploying high-impact solutions. For instance, I led the core AI for an identity verification platform that now handles 9 lakh requests monthly at over 95% efficacy. Additionally, I developed a RAG pipeline utilizing fine-tuned YOLOv8 and TATR for table extraction on 500-page banking reports, achieving 81% accuracy while reducing costs by 2.5x. My technical stack includes Python, FastAPI, Docker, and AWS, alongside expertise in MLOps and multi-agent orchestration.
+
+I am based in Gurugram and can join with a 30-day notice period. I am eager to bring my experience in building reliable, production-grade AI systems to your Bengaluru team.
+
+Dhruv Singh

@@ -1,0 +1,9 @@
+Dear Turing Team,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. My work focuses on scalable, reliable MLOps and multi-agent orchestration using Python, FastAPI, and AWS.
+
+I am particularly proud of two achievements: I built a multi-agent system using LangGraph for KYC/KYB workflows where agents dynamically route tasks and manage shared state, significantly optimizing token costs. Additionally, I led the AI development for an identity verification platform that now processes 9 lakh requests monthly with over 95% efficacy, automating tasks that previously required manual review.
+
+My technical stack includes LangChain, LoRA fine-tuning, Docker, and advanced retrieval pipelines. I am based in Gurugram and can join with a 30-day notice period. I look forward to contributing my expertise in agentic AI to Turing.
+
+Dhruv Singh

@@ -1,0 +1,9 @@
+Dear OpenAI Recruiting Team,
+
+As an AI Engineer with over 1.5 years of experience building production-grade LLM and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital, I am eager to apply for the Applied AI Engineer role. My work centers on scaling complex AI workflows while optimizing for cost and reliability.
+
+I recently built a multi-agent system using LangGraph for KYC/KYB checks, where I implemented conditional routing and scoped tool calling to handle dynamic workflows. Additionally, I led the AI development for an identity verification platform that now processes 9 lakh requests monthly with over 95% efficacy, successfully deploying CNN-based forgery detection alongside LLM adjudication.
+
+I am adept at MLOps, fine-tuning, and architecting RAG pipelines that significantly reduce hallucinations and inference costs. I am based in Gurugram and available to join within 30 days.
+
+Dhruv Singh

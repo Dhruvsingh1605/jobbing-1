@@ -1,0 +1,9 @@
+Hello Sarvam Team,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. My work focuses on scalable, reliable AI, and I am eager to contribute to the Tejas project.
+
+In my recent experience, I architected a multi-agent system using LangGraph for KYC/KYB workflows, where conditional routing and scoped tool calling streamlined complex processes. Additionally, I led the core AI for an identity verification platform, scaling it to handle 9 lakh requests monthly with over 95% efficacy. My technical stack includes Python, FastAPI, Docker, and AWS, with deep expertise in LLM fine-tuning and MLOps.
+
+I am based in Gurugram and can join with a 30-day notice period. I look forward to the possibility of bringing my experience in building robust agentic AI to your team.
+
+Dhruv Singh

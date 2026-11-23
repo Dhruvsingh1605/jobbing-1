@@ -1,0 +1,48 @@
+=== Job agent report 2026-11-23 18:54 IST  (mode now: auto) ===
+
+APPLIED TODAY: 1
+  - cognition | Partner Deployed Engineer - APAC | India (Remote) | score 85 | https://jobs.ashbyhq.com/cognition/1e47fa81-bfe3-436c-a6f7-fccd66a98b1e/application
+
+DRY-RUN OK (filled, not submitted): 0
+
+NEEDS YOUR INFO: 2
+  - HackerRank Careers | Deep Learning Research Engineer | required answer not in profile: Have you implemented or reproduced a research paper, includi; Do you have rese | https://job-boards.greenhouse.io/hackerrank/jobs/8273522
+  - Sigmoid | Data Scientist | required answer not in profile: Did you know about Sigmoid before our reach-out? * | https://job-boards.greenhouse.io/sigmoid/jobs/8951153002
+
+BLOCKED BY CAPTCHA (skipped): 16
+  - jobgether | NLP Engineer | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.lever.co/jobgether/1d942ad2-216a-491b-b8d5-1383f385191d/apply
+  - Cognizant | AI Engineer, Hyderabad, Telangana, India | bot-protection wall (Cloudflare/anti-bot) - skipped, not bypassed | https://careers.cognizant.com/us-en/jobs/00070617601/ai-engineer/
+  - sarvam | Embedded Data Scientist, Chanakya | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.ashbyhq.com/sarvam/dc047f4f-97be-4bb3-a9f1-cebbfc4de3e6/application
+  - sarvam | Strategic Deployment Engineer, Chanakya | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.ashbyhq.com/sarvam/87d5a5af-ea7d-4b94-a0fa-81dc64e54907/application
+  - sarvam | Software Development Engineer - Tejas | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.ashbyhq.com/sarvam/db89b576-2456-4cc4-ab0b-c45f8c6c27f0/application
+  - meesho | AM/M - Risk Analytics - User Lending | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.lever.co/meesho/1969c4c1-fbcc-455a-850b-092d1d83eb2b/apply
+  - mindtickle | AI Product Engineer | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.lever.co/mindtickle/864ac315-d7c5-4cd5-ab44-0e33d08f48f1/apply
+  - jobgether | ML Engineer | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.lever.co/jobgether/692a530c-0485-4961-a867-fc819a792e26/apply
+  - jobgether | AI Engineer | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.lever.co/jobgether/b9f500fd-b38b-4aeb-ac21-aad8117f47cf/apply
+  - jobgether | Databricks Genie AI Engineer | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.lever.co/jobgether/046c3cec-5c87-48a9-b643-eea4e70c1142/apply
+  - hevodata | Associate SDE | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.lever.co/hevodata/4eccaf98-ba19-42ea-b040-e0976d4dadfe/apply
+  - clera | Forward Deployed Research Engineer | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.ashbyhq.com/Clera/6631e00e-2147-4862-bf98-2f9d4f7fb840/application
+  - clera | Research Engineer, Synthetic Data | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.ashbyhq.com/Clera/84556737-4ba6-4811-aed1-e99285520d17/application
+  - clera | Research Engineer, Benchmarks | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.ashbyhq.com/Clera/1f19b698-f188-4172-93d5-f7cb5634d67f/application
+  - clera | Research Engineer, Privacy and Anonymization | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.ashbyhq.com/Clera/60f23b98-6ec5-4edd-ab16-6938e4eb5baa/application
+  - clera | Founding Engineer, Recommendation Systems | CAPTCHA challenge appeared on submit - skipped (not bypassed) | https://jobs.ashbyhq.com/Clera/38d5482b-c420-4804-b98a-6b28e2f76526/application
+
+NEEDS MANUAL APPLY (login/unsupported form): 2
+  - snowflake | Forward Deployed Engineer, Frontier Engineering | no application form found on page | https://jobs.ashbyhq.com/snowflake/a276eb40-644b-4384-9d9a-bae1c263baa6/application
+  - cursor | Forward Deployed Engineer - India | no application form found on page | https://jobs.ashbyhq.com/cursor/5f17ee48-29e8-4f48-bbc4-dc250731250b/application
+
+FAILED: 9
+  - Workable | AI/ML Engineer - Production AI & LLM Systems (India) | required fields empty: When will you be available to start? | https://jobs.workable.com/view/62N6ZL1GjmX45H7iiqhzxE/remote-ai%2Fml-engineer---production-ai-%26-llm-systems-(india)-in-india-at-volga-partners
+  - sarvam | Software Engineer - Model API Platform | no confirmation detected after submit | https://jobs.ashbyhq.com/sarvam/0371342b-5cb8-487b-9310-4d0eb5b37f47/application
+  - Turing | Software Engineer | no confirmation detected after submit | https://job-boards.greenhouse.io/turing/jobs/6115695004
+  - Twilio | Applications Engineer 2 | no confirmation detected after submit | https://job-boards.greenhouse.io/twilio/jobs/7781659
+  - clera | Founding Engineer, Agents | no confirmation detected after submit | https://jobs.ashbyhq.com/Clera/a076e4d3-9294-4432-b628-908180ce9087/application
+  - notion | Forward Deployed Engineer, India | no confirmation detected after submit | https://jobs.ashbyhq.com/notion/79c18580-c927-456c-9d5f-72efbc6c43cb/application
+  - Glance | Applied Scientist II - Recommendation | validation: By clicking "Submit Application", you confirm that you have read and understood Glance's Global Ca | https://job-boards.greenhouse.io/glance/jobs/7528898
+  - clera | Research Engineer, QC Automation | RuntimeError: LLM failed: 429 You exceeded your current quota, please check your plan and billing details. For | https://jobs.ashbyhq.com/Clera/fa0fad1b-8803-4415-9bc6-57ad17be9508/application
+  - clera | Software Engineer, Voice AI / Backend | no confirmation detected after submit | https://jobs.ashbyhq.com/Clera/0c902f05-1d23-4cfd-b0d4-1dde4b3bd01a/application
+
+Queued for later runs: 7
+Totals ever: applied=1, captcha=16, failed=9, needs_info=2, needs_manual=3, new=1, queued=7, skipped=25819
+
+RECENT EMAILS FROM COMPANIES YOU APPLIED TO: 

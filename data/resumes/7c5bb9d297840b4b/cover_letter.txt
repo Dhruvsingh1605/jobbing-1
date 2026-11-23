@@ -1,0 +1,9 @@
+Hello team at Cursor,
+
+As an AI Engineer with 1.5+ years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Aditya Birla Capital, I am excited to apply for the Forward Deployed Engineer role.
+
+My work focuses on deploying reliable, scalable AI solutions. For instance, I built a multi-agent system using LangGraph for KYC/KYB workflows, implementing conditional routing and scoped tool calling that significantly optimized token costs. Additionally, I led the core AI for an identity verification platform that now processes 9 lakh requests monthly at over 95% efficacy, demonstrating my ability to deliver high-impact, production-ready code. I am proficient in the full MLOps stack, including Python, FastAPI, Docker, and AWS.
+
+I am based in Gurugram and can join with a 30-day notice period. I look forward to bringing this experience to Cursor.
+
+Dhruv Singh

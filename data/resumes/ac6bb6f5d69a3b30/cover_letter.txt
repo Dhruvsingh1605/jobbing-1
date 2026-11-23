@@ -1,0 +1,9 @@
+Dear Hiring Team at clera,
+
+As an AI Engineer with 1.5+ years of experience deploying production LLM and agentic systems for institutions like Kotak Mahindra Bank and Tata Capital, I thrive on solving ambiguous deployment challenges. My background in building custom pipelines for complex, high-stakes environments aligns well with your need for a Forward Deployed Research Engineer who can balance rapid iteration with system reliability.
+
+I specialize in turning complex requirements into scalable tools. For instance, I built a multi-agent system in LangGraph for KYC workflows that dynamically routes tasks with conditional logic, ensuring robust, scoped tool calling. Additionally, I led the AI architecture for an identity verification platform, scaling it to 9 lakh requests monthly at over 95% efficacy. I am proficient in Python, Docker, and MLOps, and I am comfortable navigating the fast-paced, high-ownership environment of an early-stage startup.
+
+I am based in Gurugram, India, with a 30-day notice period.
+
+Dhruv Singh

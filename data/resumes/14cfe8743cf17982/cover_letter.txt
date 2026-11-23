@@ -1,0 +1,9 @@
+Hello Clera Team,
+
+I am an AI Engineer with 1.5+ years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. My work focuses on rigorous evaluation and reliability, which aligns directly with your mission to build credible benchmarks for frontier agents.
+
+I have extensive experience designing evaluation frameworks for complex workflows. For instance, I built a multi-agent system for KYC/KYB checks using LangGraph, where I implemented Langfuse tracing and guardrails to ensure reliability. Additionally, I developed a RAG and GraphRAG assistant over 50,000 legal documents, utilizing RAGAS to track response quality and reduce hallucinations by 30%. I am adept at building scalable infrastructure using Python, Docker, and AWS, and I am eager to apply this experience to designing robust, domain-specific benchmarks.
+
+I am based in Gurugram and can join with a 30-day notice period.
+
+Dhruv Singh

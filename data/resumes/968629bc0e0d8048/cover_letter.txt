@@ -1,0 +1,9 @@
+Dear OpenAI Team,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM, RAG, and agentic systems for high-stakes banking environments, including Kotak Mahindra Bank and Tata Capital. I specialize in scaling reliable AI architectures, from multi-agent orchestration using LangGraph to MLOps pipelines on AWS.
+
+I am eager to bring this expertise to the Applied AI Engineering team at OpenAI. My background includes building a multi-agent system for KYC/KYB workflows that routes tasks to specialized sub-agents with conditional logic and scoped tool calling, ensuring reliability via Langfuse tracing. Additionally, I led the core AI for an identity verification platform, scaling it to handle 9 lakh requests monthly with over 95% efficacy. I am confident in my ability to help engineering organizations integrate Codex effectively.
+
+I am based in Gurugram, India, and am available to join with a 30-day notice period.
+
+Dhruv Singh

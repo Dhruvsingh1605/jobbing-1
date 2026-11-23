@@ -1,0 +1,7 @@
+Hello,
+
+I'm applying for the Research Engineer, Synthetic Data role at clera. I'm an AI Engineer with 1.5+ years of experience building production LLM, RAG and multi-agent systems for banks and NBFCs, including an agent covering 50+ document types at 80% lower LLM cost and a fraud engine that caught Rs 78 lakh of fraud in a single day. I work mainly with Python, LangChain, LangGraph, FastAPI and AWS. My notice period is 30 days.
+
+Thank you for your time.
+
+Dhruv Singh

@@ -1,0 +1,9 @@
+Hello Notion Team,
+
+As an AI Engineer with over 1.5 years of experience deploying production-grade LLM and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital, I am excited to apply for the Forward Deployed Engineer role. My background in building scalable, reliable AI systems aligns perfectly with Notion’s mission to solve complex problems for users.
+
+I specialize in multi-agent orchestration and MLOps. Notably, I built a multi-agent system using LangGraph for KYC/KYB checks that dynamically routes workflows, and I developed a RAG pipeline with fine-tuned YOLOv8 and TATR for complex table extraction on 500-page banking reports, achieving 81% accuracy at a significantly reduced cost. My experience with FastAPI, Docker, and AWS ensures that I can bridge the gap between sophisticated AI models and seamless user-facing applications.
+
+I am based in Gurugram and can join with 30 days' notice.
+
+Dhruv Singh

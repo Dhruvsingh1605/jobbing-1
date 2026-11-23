@@ -1,0 +1,9 @@
+Dear Twilio Team,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. I am excited to apply for the Applications Engineer 2 role, where my background in Python, FastAPI, and MLOps aligns with Twilio’s focus on scalable communication and AI integration.
+
+My experience includes building complex multi-agent systems using LangGraph to automate KYC/KYB workflows, and developing RAG pipelines that process 500-page banking reports with 81% accuracy. I also led the AI development for an identity verification platform, scaling it to handle 9 lakh requests monthly with over 95% efficacy. I am proficient in optimizing inference costs and deploying robust, traced systems using Langfuse and Docker.
+
+I am based in Gurugram and have a 30-day notice period. I look forward to discussing how my expertise can contribute to Twilio.
+
+Dhruv Singh

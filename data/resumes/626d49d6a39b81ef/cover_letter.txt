@@ -1,0 +1,9 @@
+Hello Team Clera,
+
+I am an AI Engineer with 1.5+ years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. I am eager to apply my expertise in ranking, retrieval, and multi-agent orchestration to help Clera build its core recommendation engine.
+
+My background involves designing systems that solve complex matching problems at scale. For instance, I built an identity verification platform handling 9 lakh requests monthly at 95% efficacy, and a RAG pipeline for 50,000+ legal documents that achieved 87% Precision@5 by combining hybrid retrieval with graph-based grounding. I am highly comfortable with Python, MLOps, and deploying robust LLM pipelines into production environments.
+
+I thrive in fast-paced settings and am ready to relocate to San Francisco to help build Clera’s recruiting marketplace. I am available to start with a 30-day notice period.
+
+Dhruv Singh

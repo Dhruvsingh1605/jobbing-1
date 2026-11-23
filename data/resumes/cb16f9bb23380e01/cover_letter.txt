@@ -1,0 +1,9 @@
+Hello Team,
+
+I am an AI Engineer with 1.5+ years of experience building production LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. My background aligns directly with your need for scalable, intelligent conversational AI.
+
+I have extensive experience designing end-to-end agent pipelines. For instance, I built a real-time speech-to-speech system using STT, Llama-3 8B, and TTS, where async pipelines and quantized models reduced inference costs by 40%. Additionally, I developed a multi-agent system using LangGraph for complex KYC workflows, implementing conditional routing and scoped tool calling to ensure reliable, stateful interactions. My expertise spans Python, FastAPI, and MLOps, and I am adept at optimizing NLU performance to ensure high reliability in production.
+
+I am based in Gurugram and have a 30-day notice period. I look forward to discussing how my experience can contribute to your conversational AI solutions.
+
+Dhruv Singh

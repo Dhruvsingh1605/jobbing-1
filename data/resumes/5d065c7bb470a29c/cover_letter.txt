@@ -1,0 +1,9 @@
+Hello Sarvam Team,
+
+I am an AI Engineer with over 1.5 years of experience building production-grade LLM, RAG, and agentic systems for major financial institutions like Kotak Mahindra Bank and Tata Capital. My work focuses on scalable MLOps and efficient model orchestration, which aligns directly with the mission of your Model API Platform.
+
+I have extensive experience optimizing inference pipelines. For instance, I built a real-time speech-to-speech system using Llama-3 8B and async pipelines, where audio chunking and model quantization reduced inference costs by 40%. Additionally, I developed a multi-agent system using LangGraph for complex KYC workflows, where optimizing tool data from JSON to TOON format significantly reduced token costs.
+
+I am proficient in Python, FastAPI, Docker, and AWS, and I am eager to apply my background in building reliable, high-throughput AI services at Sarvam. I am based in Gurugram and have a 30-day notice period.
+
+Dhruv Singh

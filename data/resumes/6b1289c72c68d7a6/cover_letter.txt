@@ -1,0 +1,9 @@
+Hello team at clera,
+
+My 1.5+ years of experience building production-grade AI systems for banking leaders like Kotak Mahindra Bank and Tata Capital has centered on handling highly sensitive financial data. I am eager to apply this background to your privacy and anonymization challenges.
+
+In my work, I led the AI development for an identity verification platform, scaling it to 9 lakh requests monthly with over 95% efficacy. This required building robust pipelines to detect and process sensitive document types, including forgery detection using CNNs and LLM adjudication, which successfully flagged Rs 78 lakh of fraud in a single day. I am deeply familiar with building end-to-end pipelines that balance data utility with strict security, ensuring that sensitive information is extracted and protected at scale.
+
+I am excited about the opportunity to build privacy safeguards for real-world AI workflows. I am based in Gurugram and have a 30-day notice period.
+
+Dhruv Singh
